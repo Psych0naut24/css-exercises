@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odds{
+    background-color: rgb(251, 165, 165);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#even{
+    color: blue;
+    font-size: 36px;
+}
+.odds.special{
+    font-size: 24px;
+}
+#evens{
+    background-color: rgb(193, 255, 193);
+    font-size: 24px;
+    font-weight: bold;
+}
